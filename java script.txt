@@ -1,0 +1,59 @@
+java script 
+FB.api(
+  '/me',
+  'GET',
+  {"fields":"id,name"},
+  function(response) {
+      // Insert your code here
+  }
+);
+
+
+
+ios
+FBSDKGraphRequest *request = [[FBSDKGraphRequest alloc]
+    initWithGraphPath:@"/me"
+           parameters:@{ @"fields": @"id,name",}
+           HTTPMethod:@"GET"];
+[request startWithCompletionHandler:^(FBSDKGraphRequestConnection *connection, id result, NSError *error) {
+    // Insert your code here
+}];
+
+
+捲曲
+curl -i -X GET \
+ "https://graph.facebook.com/v25.0/me?fields=id%2Cname&access_token=EAAkNHd2IMkABQxNmu6cVbaQRRRfqgTkMFZB3rZCbTZCWZAWxxVSQCZA5cxV3m5rhI9UQL1Cn9N9WTxFFnpy40EauCJDw9I1ZBZAlAfzKIfEuTP4TrDIh0yV4d2XpPZClZC2YBXbLc4SmmvzASpx0ZADRvJBE5IE7q6gLsHmuxsB6QQyH5EIUwZBYvDleCzUJ5ha7OaS3ZAqdF9q6zQxZBxUzPtsdo7CZBh7xM6qEoLb9j0NUHTK93ZCsHFhZB825CmYjjFlY4ReR9fdsd3jKe4dlNPrZBWUA9egxaKTcWhOq9ZBSMZD"
+
+==== Query
+  curl -i -X GET \
+   "https://graph.facebook.com/v25.0/me?fields=id%2Cname&access_token=<access token sanitized>"
+==== Access Token Info
+  {
+    "perms": [
+      "pages_show_list",
+      "whatsapp_business_management",
+      "pages_read_engagement",
+      "whatsapp_business_messaging",
+      "public_profile"
+    ],
+    "user_id": "26756635070606310",
+    "app_id": 2547696712299072
+  }
+==== Parameters
+- Query Parameters
+
+
+  {
+    "fields": "id,name"
+  }
+- POST Parameters
+
+
+  {}
+==== Response
+  {
+    "id": "26756635070606310",
+    "name": "陳國華"
+  }
+==== Debug Information from Graph API Explorer
+- https://developers.facebook.com/tools/explorer/?method=GET&path=me%3Ffields%3Did%2Cname&version=v25.0

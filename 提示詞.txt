@@ -1,0 +1,28 @@
+提示詞
+角色 1：大壯（建築工人）
+中文提示词：
+一位 28 歲台灣男性建築工人，名叫大壯；身材健碩結實、皮膚黝黑，留黑色短髮，方形臉 + 下顎線條明顯，形象誠實勤勞，滿頭大汗；佩戴黃色工地安全帽（下巴處黑色 / 白色尼龍帽帶完全繫好，杯狀塑料帽扣緊貼下顎、清晰可見，無鬆弛滑落），穿綠色反光安全背心（內搭無袖上衣或不穿襯衫），戴工作手套；背景為台灣建築工地（可見鋼筋、鷹架）；寫實攝影風格，電影級燈光，超寫實質感，4k 畫質；角色形象統一（同臉、同一人）。
+英文提示词：
+A 28-year-old Taiwanese male construction worker named Da Zhuang; athletic and muscular build, tan skin, short black hair, square face with a strong jawline, honest and hardworking appearance, sweating heavily; wearing a yellow construction site safety helmet (black/white nylon straps extend to the chin, the cup-shaped plastic helmet buckle is completely fastened, clearly visible, fits the jawline without looseness or slipping), a green reflective safety vest (worn over a sleeveless shirt or no shirt), and work gloves; background is a Taiwan construction site (with rebar and scaffolding visible); realistic photography style, cinematic lighting, ultra-realistic texture, 4k resolution; consistent character (same face, same person).
+角色 2：翠花（鋼筋綁紮工 / 配送員）
+中文提示词：
+26 歲女性，名叫翠花，是工地鋼筋綁紮工；形象溫柔乾淨、細心體貼，常穿梭工地配送餐食 / 飲料；佩戴工地安全帽（黑色 / 白色尼龍帽帶延伸至下巴，杯狀塑料帽扣完全扣緊、清晰可見，貼合下顎線條，無鬆弛滑落），身穿反光背心；寫實攝影風格，符合工地場景質感。
+英文提示词：
+Cuihua, 26-year-old female, a steel bar binder at a construction site; gentle and clean appearance, careful and considerate, often shuttles around the construction site to deliver meals and drinks; wearing a construction site safety helmet (black/white nylon straps extend to the chin, the cup-shaped plastic helmet buckle is completely fastened, clearly visible, fits the jawline without looseness or slipping), and a reflective vest; realistic photography style, consistent with construction site texture.
+要不要我幫你整理一份大壯與翠花同框的場景提示詞？
+要
+同框场景提示词
+在一个繁忙且充满真实感的台湾建筑工地场景中，烈日高悬，自然硬光洒下，形成强烈阴影，营造出电影级别的光线氛围，以 4K 超写实画质呈现。
+大壯，那位 28 岁的台湾男性建筑工人，身材健硕结实，古铜色的皮肤在阳光下闪烁着汗珠，黑色短发根根直立。他方形脸，下颚线条分明，眼神中透着诚实与勤劳。头戴黄色安全帽，黑色的尼龙帽带紧紧扣在下巴处，杯状塑料帽扣清晰可见且贴合下颌线条，无丝毫松动滑落。身着绿色反光安全背心，里面是一件无袖上衣，露出结实的臂膀，手上戴着工作手套，正手持工具专注地对着钢筋进行作业，身旁堆满了各种建筑材料与工具，背后是搭建好的脚手架。
+不远处，翠花，26 岁的工地钢筋绑扎工，温柔干净的面容上洋溢着关切。她头戴工地安全帽，白色尼龙帽带在下巴处扣得严严实实，杯状帽扣紧扣且细节逼真，同样身着反光背心。此时，她手中正提着装满餐食和饮料的保温箱，小心翼翼地穿梭在工地间，朝着大壯的方向走来。
+周围是忙碌的建筑工人，有的在搬运材料，有的在操作机器，远处塔吊缓缓转动，机器轰鸣声、工人交谈声交织在一起，构成一幅真实的工地劳作画面。整体画面风格写实，人物形象鲜明且保持一致，所有细节精准刻画，呈现出工地现场的紧张与活力。
+In a busy and realistic Taiwanese construction site scene, the sun is high in the sky, and the natural hard light shines down, creating strong shadows, presenting a cinematic lighting atmosphere with 4K ultra - realistic picture quality.
+Da Zhuang, the 28 - year - old Taiwanese male construction worker, has a strong and muscular build. His tanned skin glistens with sweat in the sun, and his short black hair stands upright. He has a square face with a distinct jawline, and his eyes reveal honesty and diligence. He wears a yellow safety helmet, with the black nylon chin - strap tightly fastened under his chin. The cup - shaped plastic buckle is clearly visible and fits the jawline perfectly, without any looseness or slippage. He is dressed in a green reflective safety vest, with a sleeveless shirt inside, exposing his strong arms. Wearing work gloves, he is concentrating on working with the rebar, surrounded by various construction materials and tools, and a scaffolding is set up behind him.
+Not far away, Cuihua, the 26 - year - old steel bar binder at the construction site, has a gentle and clean face filled with concern. She wears a construction site safety helmet, with the white nylon chin - strap firmly buckled under her chin. The cup - shaped buckle is tightly closed and the details are vivid. She also wears a reflective vest. At this moment, she is carrying an insulated box filled with meals and drinks in her hands, carefully making her way through the construction site towards Da Zhuang.
+Around them are busy construction workers. Some are carrying materials, some are operating machines, and in the distance, a tower crane is slowly turning. The roars of machines and the conversations of workers are intertwined, forming a real picture of construction site labor. The overall picture style is realistic, the characters are distinct and consistent, and all details are precisely depicted, presenting the tension and vitality of the construction site.
+
+
+
+
+
+
